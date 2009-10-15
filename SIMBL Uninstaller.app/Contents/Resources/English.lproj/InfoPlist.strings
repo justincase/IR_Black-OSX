@@ -1,0 +1,4 @@
+CFBundleName = "SIMBL Uninstaller";
+CFBundleShortVersionString = "0.9.5";
+CFBundleGetInfoString = "SIMBL Uninstaller version 0.9.5 Copyright 2009 Mike Solomon";
+NSHumanReadableCopyright = "Copyright 2009 Mike Solomon.";

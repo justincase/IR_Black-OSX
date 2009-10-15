@@ -1,0 +1,45 @@
+# A black OS X Leopard Terminal theme that is actually readable
+
+This Terminal theme was created by Todd Werth (http://blog.infinitered.com/). See his original blog post "here":http://blog.infinitered.com/entries/show/6.
+
+This repo contains all the necessary files to get it working under Mac OS 10.6+; conveniently in one place.
+
+## Installation 
+
+1. Install the SIMBL plugin package for Snow Leopard by double clicking it or running the following
+
+    sudo install -pkg SIMBL-0.9.7.pkg -target "/"
+
+2. Copy the TerminalColours.bundle:
+	
+		* For all users
+		
+		mkdir -p /Library/Application\ Support/SIMBL/Plugins
+		cp -r TerminalColours.bundle /Library/Application\ Support/SIMBL/Plugins
+
+		* For just you
+		
+		mkdir -p ~/Library/Application\ Support/SIMBL/Plugins
+		cp -r TerminalColours.bundle ~/Library/Application\ Support/SIMBL/Plugins
+		
+3. Double click the IR_Black.terminal file. Go to Terminal -> Preferences -> Setting and set IR_Black as the default theme
+
+4. Thats it. Optionally you could add Todd's bash script which you can find "here":http://github.com/twerth/dotfiles. The ones in this repo have minor modifications to suit my taste.
+
+## Credits
+
+SIMBL
+
+	Mike Solomon - http://www.culater.net/software/SIMBL/SIMBL.php
+
+TerminalColours.bundle
+
+	Ciarán Walsh - http://ciaranwal.sh/2007/11/01/customising-colours-in-leopard-terminal
+	Evan Phoenix - http://github.com/evanphx/terminalcolours/
+								
+IR_Black.terminal
+Bash scripts
+
+	Todd Werth   - http://blog.infinitered.com/entries/show/6
+
+And everyone else!
