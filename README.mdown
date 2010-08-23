@@ -31,8 +31,7 @@ This repository contains all the necessary files to get it working under Mac OS 
 
 If you're experiencing a font difference when connecting an external monitor try [OS X hints - 10.6: Re-enable LCD font smoothing for some monitors](http://hints.macworld.com/article.php?story=20090828224632809&query=mar)
 
-> [..] OS X incorrectly detects many third party LCD monitors as CRTs, and consequently, disables LCD font smoothing.
-
+> [...] OS X incorrectly detects many third party LCD monitors as CRTs, and consequently, disables LCD font smoothing.
 
 ## Credits
 
