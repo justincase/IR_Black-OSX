@@ -5,6 +5,13 @@ Read his original blog post [here](http://blog.infinitered.com/entries/show/6).
 
 This repository contains all the necessary files to get it working under Mac OS 10.6+; conveniently in one place.
 
+# Lion
+
+The OS X Lion Terminal.app has support for ANSI color without SIMBL/TerminalColours.bundle. Simply install the
+IR_Black terminal file (inside the 10.7 folder) and set it as default.
+
+# Snow Leopard
+
 ## Installation 
 
 1. Install the SIMBL plugin package for Snow Leopard by double clicking it or running the following:
@@ -25,7 +32,7 @@ This repository contains all the necessary files to get it working under Mac OS 
 		
 3. Double click the **IR\_Black.terminal** file. Go to Terminal -> Preferences -> Setting and set IR\_Black as the default theme.
 
-4. That's it. Optionally you could add [Todd's bash scripts](http://github.com/twerth/dotfiles). The ones in this repository have minor modifications to suit my taste.
+4. That's it. Optionally you could add [Todd's bash scripts](http://github.com/twerth/dotfiles).
 
 ## Misc
 
@@ -43,10 +50,11 @@ If you're experiencing a font difference when connecting an external monitor try
 
 	Ciarán Walsh - http://ciaranwal.sh/2007/11/01/customising-colours-in-leopard-terminal
 	Evan Phoenix - http://github.com/evanphx/terminalcolours/
-								
+
 **IR_Black.terminal**
 **Bash scripts**
 
 	Todd Werth   - http://blog.infinitered.com/entries/show/6
+	@fyrabanks   - http://twitter.com/#!/fyrabanks
 
 And everyone else!
