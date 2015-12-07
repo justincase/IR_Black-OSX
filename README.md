@@ -1,6 +1,6 @@
 # A black OS X Leopard Terminal theme that is actually readable
 
-This Terminal theme was created by [Todd Werth](http://blog.infinitered.com/). Read his original blog post [here](http://web.archive.org/web/20110827084827/http://blog.toddwerth.com/entries/show/6). 
+This Terminal theme was created by [Todd Werth](http://toddwerth.com). Read his original blog post [here](http://web.archive.org/web/20110827084827/http://blog.toddwerth.com/entries/show/6). 
 
 This repository contains all the necessary files to get it working under Mac OS 10.7+; conveniently in one place.
 
