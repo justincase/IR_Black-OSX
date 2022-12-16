@@ -12,7 +12,7 @@ Optionally you could add [Todd's bash scripts](http://github.com/twerth/dotfiles
 
 ## Misc
 
-If you're experiencing a font difference when connecting an external monitor try [OS X hints - 10.6: Re-enable LCD font smoothing for some monitors](http://hints.macworld.com/article.php?story=20090828224632809&query=mar)
+If you're experiencing a font difference when connecting an external monitor try [OS X hints - 10.6: Re-enable LCD font smoothing for some monitors](https://web.archive.org/web/20100925045330/http://hints.macworld.com/article.php?story=20090828224632809&query=mar)
 
 > [...] OS X incorrectly detects many third party LCD monitors as CRTs, and consequently, disables LCD font smoothing.
 
